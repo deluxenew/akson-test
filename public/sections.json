@@ -1,0 +1,79 @@
+[
+	{
+		"id": 114,
+		"parent": 0,
+		"parentCode": "",
+		"parentCodes": [],
+		"parentNames": [],
+		"sort": 1,
+		"name": "Строительные материалы",
+		"code": "stroitelnye_materialy",
+		"xmlId": "114",
+		"imagePath": "https://api1.akson.ru:8443/aws/i/2337/2337584/340.jpg",
+		"children": [
+			183
+		],
+		"isLast": false
+	},
+	{
+		"id": 183,
+		"parent": 114,
+		"parentCode": "stroitelnye_materialy",
+		"parentCodes": [
+			"stroitelnye_materialy"
+		],
+		"parentNames": [
+			"Строительные материалы"
+		],
+		"sort": 1132791,
+		"name": "Гипсокартон и комплектация",
+		"code": "gipsokarton_i_komplektatsiya",
+		"xmlId": "183",
+		"imagePath": "https://api1.akson.ru:8443/aws/i/2212/2212674/340.jpg",
+		"children": [
+			1512,
+			1090
+		],
+		"isLast": false
+	},
+	{
+		"id": 1512,
+		"parent": 183,
+		"parentCode": "gipsokarton_i_komplektatsiya",
+		"parentCodes": [
+			"stroitelnye_materialy",
+			"gipsokarton_i_komplektatsiya"
+		],
+		"parentNames": [
+			"Строительные материалы",
+			"Гипсокартон и комплектация"
+		],
+		"sort": 1365232,
+		"name": "Профиль для гипсокартона",
+		"code": "profil_dlya_gipsokartona",
+		"xmlId": "1512",
+		"imagePath": "https://api1.akson.ru:8443/aws/i/2205/2205295/340.jpg",
+		"children": [],
+		"isLast": true
+	},
+	{
+		"id": 1090,
+		"parent": 183,
+		"parentCode": "gipsokarton_i_komplektatsiya",
+		"parentCodes": [
+			"stroitelnye_materialy",
+			"gipsokarton_i_komplektatsiya"
+		],
+		"parentNames": [
+			"Строительные материалы",
+			"Гипсокартон и комплектация"
+		],
+		"sort": 1462448,
+		"name": "Гипсокартон",
+		"code": "gipsokarton",
+		"xmlId": "1090",
+		"imagePath": "https://api1.akson.ru:8443/aws/i/2205/2205296/340.jpg",
+		"children": [],
+		"isLast": true
+	}
+]

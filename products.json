@@ -1,0 +1,231 @@
+{
+	"profil_dlya_gipsokartona": [
+		{
+			"id": 10976608,
+			"code": "profil_potolochnyy_napravlyayushchiy_giprofi_premium_27kh28_3m",
+			"xmlId": "676148",
+			"name": "Профиль потолочный направляющий (ППН) Гипрофи Премиум 27 х 28 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259178/340.jpg",
+			"price": 249,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976607,
+			"code": "profil_potolochnyy_giprofi_premium_60kh27_3m",
+			"xmlId": "676147",
+			"name": "Профиль потолочный (ПП) Гипрофи Премиум 60 х 27 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259177/340.jpg",
+			"price": 365,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976616,
+			"code": "profil_potolochnyy_napravlyayushchiy_giprofi_standart_27kh28_3m",
+			"xmlId": "676156",
+			"name": "Профиль потолочный направляющий (ППН) Гипрофи Стандарт 27 х 28 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2243/2243658/340.jpg",
+			"price": 189,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 11366630,
+			"code": "profil_potolochnyy_giprofi_standart_60kh27_3m",
+			"xmlId": "676155",
+			"name": "Профиль потолочный (ПП( Гипрофи Стандарт 60 х 27 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2288/2288084/340.jpg",
+			"price": 235,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976609,
+			"code": "profil_napravlyayushchiy_giprofi_standart_50kh40_3m",
+			"xmlId": "676149",
+			"name": "Профиль направляющий (ПН) Гипрофи Стандарт 50 х 40 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259179/340.jpg",
+			"price": 349,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976612,
+			"code": "profil_stoechnyy_giprofi_standart_50kh50_3m",
+			"xmlId": "676152",
+			"name": "Профиль стоечный (ПС) Гипрофи Стандарт 50 х 50 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259182/340.jpg",
+			"price": 365,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976606,
+			"code": "profil_stoechnyy_giprofi_premium_50kh50_3m",
+			"xmlId": "676144",
+			"name": "Профиль стоечный (ПС) Гипрофи Премиум 50 х 50 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259176/340.jpg",
+			"price": 385,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 11142335,
+			"code": "_50_40_3_",
+			"xmlId": "676141",
+			"name": "Профиль направляющий (ПН) Гипрофи Премиум 50 х 40 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2976/2976415/340.jpg",
+			"price": 469,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976611,
+			"code": "profil_napravlyayushchiy_giprofi_standart_100kh40_3m",
+			"xmlId": "676151",
+			"name": "Профиль направляющий (ПН) Гипрофи Стандарт 100 х 40 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259181/340.jpg",
+			"price": 445,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976610,
+			"code": "profil_napravlyayushchiy_giprofi_standart_75kh40_3m",
+			"xmlId": "676150",
+			"name": "Профиль направляющий (ПН) Гипрофи Стандарт 75 х 40 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259180/340.jpg",
+			"price": 385,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976614,
+			"code": "profil_stoechnyy_giprofi_standart_100kh50_3m",
+			"xmlId": "676154",
+			"name": "Профиль стоечный (ПС) Гипрофи Стандарт 100 х 50 мм, 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259184/340.jpg",
+			"price": 499,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 21484478,
+			"code": "profil_potolochnyy_napravlyayushchiy_ppn_giprofi_layt_27h28_mm_3_m",
+			"xmlId": "755452",
+			"name": "Профиль потолочный направляющий (ППН) Гипрофи Лайт 27х28 мм 3 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3364/3364536/340.jpg",
+			"price": 139,
+			"brand": "Таврос"
+		},
+		{
+			"id": 21006478,
+			"code": "profil_potolochnyy_pp_giprofi_strong_6027_15_m",
+			"xmlId": "754638",
+			"name": "Профиль потолочный (ПП) Гипрофи Стронг 60/27 1,5 м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3324/3324576/340.jpg",
+			"price": 215,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 10976621,
+			"code": "soedinitel_potolochnogo_profilya_odnourovnevyy_giprofi_60kh27_krab",
+			"xmlId": "676165",
+			"name": "Соединитель потолочного профиля одноуровневый (краб) Гипрофи 60х27",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2259/2259187/340.jpg",
+			"price": 39,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 21898696,
+			"code": "profil_mayachkovyy_giprofi_standart_6_h_3000_mm",
+			"xmlId": "755413",
+			"name": "Профиль маячковый Гипрофи Стандарт, 6 х 3000 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3401/3401087/340.jpg",
+			"price": 59,
+			"brand": "Таврос"
+		},
+		{
+			"id": 14757520,
+			"code": "_fasadpro_0_1_0_1_2_5_",
+			"xmlId": "705897",
+			"name": "Профиль угловой ПВХ с армирующей сеткой FasadPro, 0,1 х 0,1 х 2,5м",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2754/2754573/340.jpg",
+			"price": 75,
+			"brand": "ФасадПро"
+		},
+		{
+			"id": 21898697,
+			"code": "profil_mayachkovyy_giprofi_standart_10_h_3000_mm",
+			"xmlId": "755414",
+			"name": "Профиль маячковый Гипрофи Стандарт, 10 х 3000 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3401/3401088/340.jpg",
+			"price": 79,
+			"brand": "Таврос"
+		},
+		{
+			"id": 21006434,
+			"code": "profil_mayachkovyy_m10_13000_mm_giprofi",
+			"xmlId": "726329",
+			"name": "Профиль маячковый Гипрофи Лайт, 10 х 3000 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3324/3324539/340.jpg",
+			"price": 69,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 18602908,
+			"code": "profil_napravlyayushchiy_pn_giprofi_strong_100403000_mm",
+			"xmlId": "726656",
+			"name": "Профиль направляющий (ПН) Гипрофи Стронг 100/40/3000 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/3091/3091817/340.jpg",
+			"price": 249,
+			"brand": "Гипрофи"
+		},
+		{
+			"id": 6052419,
+			"code": "profil_uglovoy_otsinkovannyy_setch_35_35_3000mm_giprofi",
+			"xmlId": "282462",
+			"name": "Профиль угловой оцинкованный сетчатый Гипрофи, 35 х 35 х 3000 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/1082/1082360/340.jpg",
+			"price": 135,
+			"brand": "Гипрофи"
+		}
+	],
+	"gipsokarton": [
+		{
+			"id": 12502156,
+			"code": "_2500_1200_12_5__12502156",
+			"xmlId": "692404",
+			"name": "Гипсокартон влагостойкий Волма, 2500 х 1200 х 12,5 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2367/2367851/340.jpg",
+			"price": 389,
+			"brand": "Волма"
+		},
+		{
+			"id": 12479209,
+			"code": "_2500_1200_12_5_",
+			"xmlId": "692452",
+			"name": "Гипсокартон Волма, 2500 х 1200 х 12,5 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2367/2367852/340.jpg",
+			"price": 285,
+			"brand": "Волма"
+		},
+		{
+			"id": 12479210,
+			"code": "_2500_1200_9_5_",
+			"xmlId": "692453",
+			"name": "Гипсокартон Волма, 2500 х 1200 х 9,5 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2364/2364948/340.jpg",
+			"price": 249,
+			"brand": "Волма"
+		},
+		{
+			"id": 12502155,
+			"code": "_2500_1200_9_5__12502155",
+			"xmlId": "692403",
+			"name": "Гипсокартон влагостойкий Волма, 2500 х 1200 х 9,5 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/i/2367/2367850/340.jpg",
+			"price": 319,
+			"brand": "Волма"
+		},
+		{
+			"id": 26245274,
+			"code": "gipsokarton_volma_1500_h_600_h_125_mm",
+			"xmlId": "273484",
+			"name": "Гипсокартон Волма 1500 х 600 х 12,5 мм",
+			"imagePath": "https://api1.akson.ru:8443/aws/p/26245274/decf0ac7-959f-4c74-85ec-f673d84e463d/340.jpg",
+			"price": 169,
+			"brand": "Волма"
+		}
+	]
+}
